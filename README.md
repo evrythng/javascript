@@ -1,6 +1,7 @@
 # EVRYTHNG's Javascript style guide {
 
 Based off of the great AirBnB's style guide.
+
 Keeping our JavaScript more consistent for Node and the Front-end.
 
 ## Table of Contents
